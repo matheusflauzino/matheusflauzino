@@ -25,8 +25,8 @@ CTO @geekdevs-br and @melsolucoes; GDG Varginha Organizer Lead
 - :books:  I'm currently student MSc in Software Engineering and Database, Universidade Federal de Lavras - UFLA.
 - ⚡ Passionate about new technologies and software engineering.
 
-
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=matheusflauzino&show_icons=true">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusflauzino&layout=compact&hide=html" alt="matheusflauzino" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusflauzino&show_icons=true&count_private=true" alt="matheusflauzino" width="50%"/></p>
 
 
 ## Languages and Technologies I use daily
