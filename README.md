@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Hi there! I'm Matheus Flauzino! Welcome to my profile <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="30">
 
-CTO @geekdevs-br and @melsolucoes; GDG Varginha Organizer Lead
+GDG Varginha Organizer Lead
 
 - 🔭 I’m currently working on full cycle developer.
 - :books:  I'm currently student MSc in Software Engineering and Database, Universidade Federal de Lavras - UFLA.
