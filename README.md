@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 CTO @geekdevs-br and @melsolucoes; GDG Varginha Organizer Lead
 
-- 🔭 I’m currently working on full circle developer.
+- 🔭 I’m currently working on full cycle developer.
 - :books:  I'm currently student MSc in Software Engineering and Database, Universidade Federal de Lavras - UFLA.
 - ⚡ Passionate about new technologies and software engineering.
 
