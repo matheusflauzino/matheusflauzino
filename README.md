@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Hi there! I'm Matheus Flauzino! Welcome to my profile <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="30">
 
-System Analyst @gerencianet and GDG Varginha Organizer Lead.
+System Analyst [!@gerencianet](https://github.com/gerencianet) and GDG Varginha Organizer Lead.
 
 - 🔭 I’m currently working on full cycle developer.
 - :books:  I'm currently student MSc in Software Engineering and Database, Universidade Federal de Lavras - UFLA.
