@@ -21,26 +21,27 @@ Here are some ideas to get you started:
 
 Software Engineer [@gerencianet](https://github.com/gerencianet) and GDG Varginha Organizer Lead.
 
-- 🔭 I’m currently working on full cycle developer.
-- :books:  I'm currently student MSc in Software Engineering and Database, Universidade Federal de Lavras - UFLA.
+- 🔭 I’m currently working on backend developer in position of software enginner, but I risk being frontend;
+- 🌱 I’m AWS Certified;
+- :books:  I'm currently student Software Engineering;
 - ⚡ Passionate about new technologies and software engineering.
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusflauzino&show_icons=true&count_private=true" alt="matheusflauzino" width="50%"/>
+
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusflauzino&show_icons=true&count_private=true" alt="matheusflauzino" width="50%"/>-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusflauzino&hide_progress=true&count_private=true)-->
 
 
 ## Languages and Technologies I use daily
 
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -49,13 +50,10 @@ Software Engineer [@gerencianet](https://github.com/gerencianet) and GDG Varginh
 ## Knowledge
 
 **Languages**
-[![PHP](https://img.shields.io/badge/-PHP-5849BE?style=flat-square&logo=php&logoColor=white&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
+[![PHP](https://img.shields.io/badge/-PHP-5849BE?style=flat-square&logo=php&logoColor=white&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
-[![Java](https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
 
 
 **Front-end / Mobile**
@@ -68,17 +66,13 @@ Software Engineer [@gerencianet](https://github.com/gerencianet) and GDG Varginh
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/matheusflauzino/)
 
 **Back-end**
-[![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
-[![Lumen](https://img.shields.io/badge/-Lumen-ff2d30?style=flat-square&logo=Lumen&logoColor=white&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
 [![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
-[![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=flat-square&logo=AdonisJS&logoColor=white&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
+[![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
 
 
 **Others Technologies**
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
-[![Vuex](https://img.shields.io/badge/-Vuex-4fc08d?style=flat-square&logo=vue.js&logoColor=white&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
 
 **Database**
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/matheusflauzino/)](https://github.com/matheusflauzino/)
